@@ -9,7 +9,7 @@
     <em>By Jiawen Huang (jh4179)</em>
     <br />
     ·
-    <a href="https://github.com/Jiawen97/final_project/project_code.ipynb">View Notebook</a>
+    <a href="https://github.com/Jiawen97/final_project/blob/main/project_code.ipynb">View Notebook</a>
   </p>
 
 
@@ -51,7 +51,7 @@ Watchout: RAM is strictly constrained in Colab, you may need to save results in 
 
 I generally provide my analysis in my report with all the code showing how to reach myresults. The report is divided into 11 parts -- Project Summary, Modules and Functions, Train Test Split and Validation Setup, Distract Patches at level 5, 6 and 7, Evaluation Method, Single Scale -- Transfer Learning, Single Scale -- Simple Model, Multi Scale -- InceptionV3 with Last 30 Layers Trainable, Multi Scale -- Simple Model, Result and Conclusion, and Further Work.
 
-_For more details, please refer to the [Documentation](https://github.com/Jiawen97/final_project/project_code.ipynb)_
+_For more details, please refer to the [Documentation](https://github.com/Jiawen97/final_project/blob/main/project_code.ipynb)_
 
 
 
