@@ -9,7 +9,7 @@
     <em>By Jiawen Huang (jh4179)</em>
     <br />
     ·
-    <a href="https://github.com/Jiawen97/final_project/project_code.ipynb">View Notebook</a>
+    <a href="https://github.com/Jiawen97/final_project/bolb/main/project_code.ipynb">View Notebook</a>
   </p>
 
 
@@ -47,7 +47,7 @@ Upload all the data listed in Dataset to your Google Drive and then run the .ipy
 
 I generally provide my analysis in my report with all the code showing how to reach myresults. The report is divided into 11 parts -- Project Summary, Modules and Functions, Train Test Split and Validation Setup, Distract Patches at level 5, 6 and 7, Evaluation Method, Single Scale -- Transfer Learning, Single Scale -- Simple Model, Multi Scale -- InceptionV3, Multi Scale -- Simple Model, Result and Conclusion, and Further Work.
 
-_For more details, please refer to the [Documentation](https://github.com/Jiawen97/final_project/project_code.ipynb)_
+_For more details, please refer to the [Documentation](https://github.com/Jiawen97/final_project/bolb/main/project_code.ipynb)_
 
 
 
